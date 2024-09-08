@@ -1,6 +1,5 @@
 class UserData{
     // properties ,method, constructor
-
     userName: string;
     age: number;
 
@@ -11,8 +10,6 @@ class UserData{
 
     showUserName(){
         console.log(`userName ${this.userName} age ${this.age}`);
-
-
     }
 }
 
