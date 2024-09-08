@@ -3,7 +3,7 @@
 let user: [number,string];
 user = [101,"zahid"]
 
-user.push(102,"fow kotha")
+user.push("sbds",121)
 
 console.log(user);
 
